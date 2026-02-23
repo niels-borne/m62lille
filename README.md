@@ -1,34 +1,34 @@
 # [m62lille](https://github.com/ktzanev/m62lille)
 
-[page web](https://ktzanev.github.io/m62lille/)
+[page web](https://niels-borne.github.io/m62lille/)
 
 ## Les TPs du module M62 – « Équations différentielles » de l'Université de Lille.
 
-Vous pouvez récupérer [ce dépôt](https://github.com/ktzanev/m62lille) de deux façons faciles :
+Vous pouvez récupérer [ce dépôt](https://github.com/niels-borne/m62lille) de deux façons faciles :
 
-- en téléchargeant l'archive [zip](https://github.com/ktzanev/m62lille/archive/master.zip) qui contient la dernière version des fichiers,
+- en téléchargeant l'archive [zip](https://github.com/niels-borne/m62lille/archive/master.zip) qui contient la dernière version des fichiers,
 - récupérer l'intégralité de ce dépôt, y compris l'historique des modifications, en utilisant `git` avec la commande
 
   ~~~~~~~
-  git clone git@github.com:ktzanev/m62lille.git
+  git clone git@github.com:niels-borne/m62lille.git
   ~~~~~~~
 
 
-### 2022/23
+### 2025/26
 
-Vous pouvez aussi ouvrir [ce dépôt](https://github.com/ktzanev/m62lille) dans le cloud :
+Vous pouvez aussi ouvrir [ce dépôt](https://github.com/niels-borne/m62lille) dans le cloud :
 
 - avec ![Binder](https://mybinder.org/badge_logo.svg) :
-  [[OVH](https://binder.mybinder.ovh/v2/gh/ktzanev/m62lille/master)]
-  [[MyBinder](https://mybinder.org/v2/gh/ktzanev/m62lille/master)]
-  [[Gesis](https://notebooks.gesis.org/binder/v2/gh/ktzanev/m62lille/master)]
-  [[Google Cloud](https://gke.mybinder.org/v2/gh/ktzanev/m62lille/master)]
+  [[OVH](https://binder.mybinder.ovh/v2/gh/niels-borne/m62lille/master)]
+  [[MyBinder](https://mybinder.org/v2/gh/niels-borne/m62lille/master)]
+  [[Gesis](https://notebooks.gesis.org/binder/v2/gh/niels-borne/m62lille/master)]
+  [[Google Cloud](https://gke.mybinder.org/v2/gh/niels-borne/m62lille/master)]
   ;
 - avec ![Google Colab](https://colab.research.google.com/assets/colab-badge.svg) :
-  [[Google Colab](https://colab.research.google.com/github/ktzanev/m62lille/blob/master)]
+  [[Google Colab](https://colab.research.google.com/github/niels-borne/m62lille/blob/master)]
   .
 
-[Ce dépôt](https://github.com/ktzanev/m62lille) contient les fichiers :
+[Ce dépôt](https://github.com/niels-borne/m62lille) contient les fichiers :
 
 - [Feuille de TP n°0](M62_TP0.ipynb)
 *(cette feuille 0 est à étudier, et jouer avec, avant le début des tps)*
