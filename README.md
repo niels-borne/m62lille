@@ -20,7 +20,6 @@ Vous pouvez aussi ouvrir [ce dépôt](https://github.com/niels-borne/m62lille) d
 
 - avec ![Binder](https://mybinder.org/badge_logo.svg) :
   [[MyBinder](https://mybinder.org/v2/gh/niels-borne/m62lille/master)]
-  [[Google Cloud](https://gke.mybinder.org/v2/gh/niels-borne/m62lille/master)]
   ;
 - avec ![Google Colab](https://colab.research.google.com/assets/colab-badge.svg) :
   [[Google Colab](https://colab.research.google.com/github/niels-borne/m62lille/blob/master)]
