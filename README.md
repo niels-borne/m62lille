@@ -19,9 +19,7 @@ Vous pouvez récupérer [ce dépôt](https://github.com/niels-borne/m62lille) de
 Vous pouvez aussi ouvrir [ce dépôt](https://github.com/niels-borne/m62lille) dans le cloud :
 
 - avec ![Binder](https://mybinder.org/badge_logo.svg) :
-  [[OVH](https://binder.mybinder.ovh/v2/gh/niels-borne/m62lille/master)]
   [[MyBinder](https://mybinder.org/v2/gh/niels-borne/m62lille/master)]
-  [[Gesis](https://notebooks.gesis.org/binder/v2/gh/niels-borne/m62lille/master)]
   [[Google Cloud](https://gke.mybinder.org/v2/gh/niels-borne/m62lille/master)]
   ;
 - avec ![Google Colab](https://colab.research.google.com/assets/colab-badge.svg) :
